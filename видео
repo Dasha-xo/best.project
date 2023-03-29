@@ -1,0 +1,41 @@
+<div style="width: 1907px; height: 1096px; padding-top: 256px; padding-bottom: 256px; padding-left: 294px; padding-right: 293px; background-color: white; display: inline-flex; flex-direction: row; align-items: center; justify-content: center;">
+    <div style="width: 1320px; height: 584px; display: flex; flex-direction: row; align-items: flex-end; justify-content: flex-end;">
+        <div style="width: 810px; height: 584px; display: inline-flex; flex-direction: column; align-items: center; justify-content: flex-end;">
+            <div style="width: 150px; height: 52px; display: inline-flex; flex-direction: row; align-items: center; justify-content: flex-end;">
+                <div style="width: 52px; height: 52px;">
+                    <div style="width: 52px; height: 52px; background-color: rgba(230, 120, 133, 1); border-radius: 9999px;"/>
+                </div>
+                <div style="width: 16px;"/>
+                <p style="font-size: 14px; font-weight: 700; line-height: 150%; color: rgba(30, 33, 44, 1);">Watch Video</p>
+            </div>
+            <div style="height: 32px;"/>
+            <img style="width: 810px; height: 500px; border-radius: 4px;" src="https://via.placeholder.com/810x500"/>
+        </div>
+        <div style="width: 135px;"/>
+        <div style="display: inline-flex; flex-direction: column; align-items: flex-start; justify-content: flex-start;">
+            <div style="display: inline-flex; flex-direction: row; align-items: center; justify-content: flex-start;">
+                <p style="font-size: 48px; font-weight: 900; letter-spacing: 1px; line-height: 130%; color: rgba(230, 120, 133, 1);">100</p>
+                <div style="width: 16px;"/>
+                <p style="font-size: 18px; font-weight: 700; line-height: 150%; color: rgba(30, 33, 44, 1);">лучших видео-лекций</p>
+            </div>
+            <div style="height: 20px;"/>
+            <div style="display: inline-flex; flex-direction: row; align-items: center; justify-content: flex-start;">
+                <p style="font-size: 48px; font-weight: 900; letter-spacing: 1px; line-height: 130%; color: rgba(230, 120, 133, 1);">50</p>
+                <div style="width: 16px;"/>
+                <p style="font-size: 18px; font-weight: 700; line-height: 150%; color: rgba(30, 33, 44, 1);">шаблонов для проектов</p>
+            </div>
+            <div style="height: 20px;"/>
+            <div style="display: inline-flex; flex-direction: row; align-items: center; justify-content: flex-start;">
+                <p style="font-size: 48px; font-weight: 900; letter-spacing: 1px; line-height: 130%; color: rgba(230, 120, 133, 1);">15</p>
+                <div style="width: 16px;"/>
+                <p style="font-size: 18px; font-weight: 700; line-height: 150%; color: rgba(30, 33, 44, 1);">менторов</p>
+            </div>
+            <div style="height: 20px;"/>
+            <div style="display: inline-flex; flex-direction: row; align-items: center; justify-content: flex-start;">
+                <p style="font-size: 48px; font-weight: 900; letter-spacing: 1px; line-height: 130%; color: rgba(230, 120, 133, 1);">5</p>
+                <div style="width: 16px;"/>
+                <p style="font-size: 18px; font-weight: 700; line-height: 150%; color: rgba(30, 33, 44, 1);">встроенных приложений для проектов</p>
+            </div>
+        </div>
+    </div>
+</div>
